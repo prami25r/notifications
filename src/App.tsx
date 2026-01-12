@@ -1,6 +1,6 @@
 import React from 'react';
-import HomeScreen from './screens/HomeScreen';
+import AppNavigation from './appNavigation';
 
-const App = () => <HomeScreen />;
+const App = () => <AppNavigation />;
 
 export default App;
